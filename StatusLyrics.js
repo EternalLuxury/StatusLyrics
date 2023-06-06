@@ -94,7 +94,7 @@ $(`
                 </div>
             </div>
             <div id="version">Version 1.0.0-beta</div>
-            <div id="">© Copyright 2023 LuxuryDev</div>
+            <div id="version">© Copyright 2023 LuxuryDev</div>
         </div>
     </div>
 </div>
